@@ -12,5 +12,5 @@ const guardar2 = conFamilia[3]
 const almacenar = document.getElementById("hobbies")
 console.log(almacenar);
 
-const mensaje = `Uno de mis hobbies favoritos para hacer en pareja es ${guardar}, y uno de los mejores para hacer en familiar es ver ${guardar2}`;
+const mensaje = `Uno de mis hobbies favoritos para hacer en pareja es ${guardar}, y uno de los mejores para hacer en familia es ver ${guardar2}`;
 almacenar.textContent = mensaje
